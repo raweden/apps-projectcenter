@@ -9,6 +9,11 @@
 *.preferences
 *.project
 *.swp
+.DS_Store
 derived_src
 obj
+.buildlogs
+build/*
+BUILD.gn
+.gn
 *~
